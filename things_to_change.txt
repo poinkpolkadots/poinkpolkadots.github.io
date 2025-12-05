@@ -1,0 +1,38 @@
+Files blog/Gemfile and alembic-kit-remote-theme/Gemfile differ
+Files blog/Gemfile.lock and alembic-kit-remote-theme/Gemfile.lock differ
+Files blog/_config.yml and alembic-kit-remote-theme/_config.yml differ
+Files blog/_site/assets/search.json and alembic-kit-remote-theme/_site/assets/search.json differ
+Files blog/_site/assets/styles.css and alembic-kit-remote-theme/_site/assets/styles.css differ
+Files blog/_site/blog/index.html and alembic-kit-remote-theme/_site/blog/index.html differ
+Files blog/_site/categories/index.html and alembic-kit-remote-theme/_site/categories/index.html differ
+Files blog/_site/feed.xml and alembic-kit-remote-theme/_site/feed.xml differ
+Files blog/_site/index.html and alembic-kit-remote-theme/_site/index.html differ
+Files blog/_site/manifest.json and alembic-kit-remote-theme/_site/manifest.json differ
+Files blog/_site/sitemap.xml and alembic-kit-remote-theme/_site/sitemap.xml differ
+Files blog/_site/sw.js and alembic-kit-remote-theme/_site/sw.js differ
+Files blog/categories.md and alembic-kit-remote-theme/categories.md differ
+Files blog/index.md and alembic-kit-remote-theme/index.md differ
+Only in alembic-kit-remote-theme/_posts: 2018-08-22-hello-world.md
+Only in alembic-kit-remote-theme/_site/assets: styles.css.map
+Only in alembic-kit-remote-theme/_site/general: 2018
+Only in alembic-kit-remote-theme/_site: 404.html
+Only in alembic-kit-remote-theme/_site: about
+Only in alembic-kit-remote-theme/blog: index.html
+Only in alembic-kit-remote-theme: .gitignore
+Only in alembic-kit-remote-theme: .jekyll-cache
+Only in alembic-kit-remote-theme: 404.md
+Only in alembic-kit-remote-theme: README.md
+Only in alembic-kit-remote-theme: about.md
+Only in blog/_posts: 2025-08-07-Example-Post-2.md
+Only in blog/_posts: 2025-11-29-Example-Post.md
+Only in blog/_site/assets: css
+Only in blog/_site/assets: images
+Only in blog/_site/general: 'external sources'
+Only in blog/_site: history
+Only in blog/_site: search
+Only in blog/blog: blog.md
+Only in blog: .git
+Only in blog: _includes
+Only in blog: _layouts
+Only in blog: assets
+Only in blog: search.md

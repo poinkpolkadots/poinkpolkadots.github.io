@@ -1,8 +1,3 @@
-Files blog/Gemfile and alembic-kit-remote-theme/Gemfile differ
-Files blog/Gemfile.lock and alembic-kit-remote-theme/Gemfile.lock differ
-Files blog/_config.yml and alembic-kit-remote-theme/_config.yml differ
-Files blog/_site/assets/search.json and alembic-kit-remote-theme/_site/assets/search.json differ
-Files blog/_site/assets/styles.css and alembic-kit-remote-theme/_site/assets/styles.css differ
 Files blog/_site/blog/index.html and alembic-kit-remote-theme/_site/blog/index.html differ
 Files blog/_site/categories/index.html and alembic-kit-remote-theme/_site/categories/index.html differ
 Files blog/_site/feed.xml and alembic-kit-remote-theme/_site/feed.xml differ

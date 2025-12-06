@@ -1,0 +1,25 @@
+<!--<link href="../assets/css/styles.css" rel="stylesheet">-->
+{% assign feature_text = page.feature_text %}
+{% assign feature_image = page.feature_image %}
+{% if page.collectionpage %}
+  {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+  {% assign feature_text = collectiondata.feature_text %}
+  {% assign feature_image = collectiondata.feature_image %}
+{% endif %}
+<style>
+  :root {
+    --light: #ffffff;
+    --dark: #242e2b;
+  }
+  .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
+    color: var(--text-color) !important;
+  }
+</style>
+
+{% if feature_text or feature_image %}
+  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})" {% endif %}>
+    <div class="container  typeset" style="--text-color: var(--{{ page.font_color | default: 'dark' }}); color:var(--{{ page.font_color | default: 'dark' }});">
+      {{ feature_text | markdownify }}
+    </div>
+  </div>
+{% endif %}

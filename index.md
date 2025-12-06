@@ -16,7 +16,9 @@ I like computers, baking, and a whole host of other things. Look through my blog
 
 <section aria-label="Recent Projects">
   <ul>
-    <li class="slide"></li>
+    <li class="slide">
+      
+    </li>
   </ul>
 </section>
 
